@@ -32,7 +32,15 @@ My research focuses on natural language processing and machine learning, with sp
 
 ## Publications
 
-{% bibliography --template featured %}
+{% for pub in site.publications %}
+<div class="publication">
+  <h3>{{ pub.title }}</h3>
+  <p><strong>{{ pub.year }}</strong> - {{ pub.venue }}</p>
+  <p>{{ pub.author }}</p>
+  {% if pub.link %}<p><a href="{{ pub.link }}">Paper</a></p>{% endif %}
+  {% if pub.code %}<p><a href="{{ pub.code }}">Code</a></p>{% endif %}
+</div>
+{% endfor %}
 
 ## Skills
 
