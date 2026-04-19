@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 – Present
+  * HKUST NLP Group, supervised by Prof. Junxian He
+
+* **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020 – 2024
+  * GPA: Top 10% | Received Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX, Feb. 2025 – Present
+  * Working on LLM reasoning and reinforcement learning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, Tencent WXG, Jun. 2024 – Sep. 2024
+  * Advisor: Zifei Shan
+  * Focused on hallucination mitigation in vision-language models
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Intern**, Shanghai AI Lab, Jun. 2023 – Dec. 2023
+  * Advisor: Prof. Yu Cheng
+  * Developed parameter-efficient module composition methods
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Python, PyTorch, TensorFlow, C/C++, Java
+* **Deep Learning**: Large Language Models, Reinforcement Learning, Vision-Language Models
+* **NLP**: Natural Language Understanding, Reasoning, Evaluation Benchmarks, Interpretability
+* **Tools**: Git, Docker, Linux, AWS, GCP, Jupyter
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* HKUST NLP Group member (2024 – Present)
