@@ -6,7 +6,7 @@ permalink: /publication/2025-perception-bottleneck
 excerpt: 'An investigation into the perception bottlenecks of vision-language models for chart understanding tasks.'
 date: 2025
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2502.07424'
+paperurl: 'https://github.com/Vicent0205/Vision4Chart'
 citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." arXiv preprint.'
 ---
 
