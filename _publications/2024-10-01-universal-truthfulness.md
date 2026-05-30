@@ -6,7 +6,7 @@ permalink: /publication/2024-universal-truthfulness
 excerpt: 'Investigates the universal truthfulness hyperplane inside large language models.'
 date: 2024-10
 venue: 'EMNLP 2024'
-paperurl: 'https://arxiv.org/abs/2405.05333'
+paperurl: 'https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane'
 citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Universal Truthfulness Hyperplane Inside LLMs." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024).'
 ---
 
