@@ -52,34 +52,29 @@ I am a first-year PhD candidate at the **Hong Kong University of Science and Tec
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
    - *First Author*
    - ArXiv preprint
-   - [arXiv](https://arxiv.org/abs/2502.07424)
+   - Code: [SynLogic](https://github.com/Vicent0205/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    - *First Author*
    - ArXiv preprint
-   - [arXiv](https://arxiv.org/abs/2502.07424)
    - Code: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024)
    - *First Author*
    - **EMNLP 2024**
-   - [arXiv](https://arxiv.org/abs/2405.05333)
    - Code: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024)
    - Co-author
    - **ICML 2024**
-   - [arXiv](https://arxiv.org/abs/2402.15351)
 
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023)
    - Co-author
    - **NeurIPS 2023**
-   - [arXiv](https://arxiv.org/abs/2305.07388)
 
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023)
    - Co-author
    - **NeurIPS 2023**
-   - [arXiv](https://arxiv.org/abs/2310.04852)
 
 ## Skills
 
