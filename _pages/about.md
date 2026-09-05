@@ -17,14 +17,14 @@ Research Interests
 
 Education
 ======
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024\u2013Present
-* **B.Eng.**, Shanghai Jiao Tong University, 2020\u20132024
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024-Present
+* **B.Eng.**, Shanghai Jiao Tong University, 2020-2024
 
 Research Experience
 ======
-* **Research Intern**, MINIMAX, February 2025 \u2013 Present
-* **Research Intern**, Tencent WXG, June 2024 \u2013 September 2024 (advised by Zifei Shan)
-* **Research Intern**, Shanghai AI Lab, June 2023 \u2013 December 2023 (advised by Prof. Yu Cheng)
+* **Research Intern**, MINIMAX, February 2025 - Present
+* **Research Intern**, Tencent WXG, June 2024 - September 2024 (advised by Zifei Shan)
+* **Research Intern**, Shanghai AI Lab, June 2023 - December 2023 (advised by Prof. Yu Cheng)
 
 Publications
 ======
