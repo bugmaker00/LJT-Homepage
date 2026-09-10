@@ -23,7 +23,7 @@ repository               : "bugmaker00/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
+  avatar           : "https://github.com/Vicent0205.png"
   name             : "Junteng Liu"
   pronouns         : 
   bio              : "First-year Ph.D. candidate at the HKUST NLP Group"
